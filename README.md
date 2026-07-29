@@ -1,137 +1,204 @@
 <div align="center">
-
-```
- ████████╗██╗   ██╗ █████╗ ███╗   ██╗██╗ ██████╗ ██████╗  █████╗ ███╗   ███╗
- ╚══██╔══╝██║   ██║██╔══██╗████╗  ██║██║██╔════╝ ██╔══██╗██╔══██╗████╗ ████║
-    ██║   ██║   ██║███████║██╔██╗ ██║██║██║  ███╗██████╔╝███████║██╔████╔██║
-    ██║   ██║   ██║██╔══██║██║╚██╗██║██║██║   ██║██╔══██╗██╔══██║██║╚██╔╝██║
-    ██║   ╚██████╔╝██║  ██║██║ ╚████║██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║
-    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
-```
-
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FF0080&center=true&vCenter=true&width=450&lines=%3E+System+Online...+Tuaniqram;%3E+AI+Enthusiast+%26%26+Builder;%3E+Full-Stack+Developer;%3E+Cyberpunk+Mindset" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJhaTZuOWt5aGM1bnRvZmFseWt1eHI3MnV2em5xcDRtODFhemk0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1n1UqtkM90IaPsN8h1/giphy.gif" width="400" alt="Cyberpunk Robot" />
-</p>
-
-<br/>
-
-<div align="center">
-
-```diff
-+ 🔥 SYSTEM STATUS: ONLINE
-! 👾 NAME: TUAN IQRAM
-- 📍 LOCATION: MALAYSIA
-# ⚡ FOCUS: AI & FULL-STACK DEVELOPMENT
-```
-
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=32&duration=2000&pause=1000&color=00FFF0&center=true&vCenter=true&width=600&lines=Tuan+Iqram;AI+Engineer;Full-Stack+Developer;Building+Intelligent+Systems" alt="Typing SVG" />
+  <br/>
+  <br/>
+  <h3>
+    <code>Building Intelligent Systems with AI, LLMs and Modern Software Engineering</code>
+  </h3>
+  <br/>
+  <p>
+    <img src="https://img.shields.io/badge/AI-Engineering-00FFF0?style=flat-square&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/LLM-Specialist-00FFF0?style=flat-square&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/Full--Stack-Developer-00FFF0?style=flat-square&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/Malaysia-%F0%9F%87%B2%F0%9F%87%BE-00FFF0?style=flat-square&labelColor=0D1117" />
+  </p>
+  <br/>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Tuaniqram&label=Profile+Visits&color=00FFF0&style=flat-square&labelColor=0D1117" />
+    <a href="https://github.com/Tuaniqram?tab=followers">
+      <img src="https://img.shields.io/github/followers/Tuaniqram?label=Followers&color=00FFF0&style=flat-square&labelColor=0D1117" />
+    </a>
+  </p>
+  <br/>
 </div>
 
 ---
 
+## About Me
+
+Software Engineering student and AI Engineer based in Malaysia, focused on building production-grade intelligent systems. My work spans the full stack of modern AI applications — from LLM-powered agents and RAG pipelines to scalable backend architectures and cloud-native deployments.
+
+I believe in engineering software that solves real problems. Every system I build is designed with clean architecture, maintainability, and measurable impact in mind.
+
+**Current focus areas:**
+- Large Language Models & AI Agents
+- Retrieval-Augmented Generation (RAG)
+- Full-Stack Application Development
+- Cloud Engineering & Backend Architecture
+
+---
+
+## Flagship Project: AI Interview Agent
+
+An AI-powered technical interview platform built for organizations to conduct intelligent, adaptive candidate assessments.
+
+### The Problem
+
+Traditional technical interviews are time-intensive, inconsistent across interviewers, and difficult to scale. Candidates often face irrelevant questions while organizations struggle to evaluate skills objectively.
+
+### Solution Architecture
+
+<pre>
+Candidate
+    |
+    v
+Frontend (React / Angular)
+    |
+    v
+FastAPI Backend
+    |
+    v
+AI Agent Workflow
+    |
+    v
+LLM + RAG Knowledge Base
+    |
+    v
+Vector Database (Pinecone)
+    |
+    v
+Application Database (PostgreSQL)
+</pre>
+
+### Capabilities
+
+- **AI Interviewer** — Context-aware conversational agent that conducts technical interviews
+- **Document Ingestion** — Ingests company documentation, job descriptions, and technical requirements into a searchable knowledge base
+- **RAG Pipeline** — Retrieves relevant context from ingested documents to generate accurate, role-specific questions
+- **Adaptive Questioning** — Dynamically adjusts question difficulty and topic based on candidate responses
+- **Evaluation Engine** — Scores candidates on technical accuracy, problem-solving, and communication
+- **Dashboards** — Separate interfaces for organization-wide analytics and individual candidate progress
+
+### Technology Stack
+
+`FastAPI` `React` `Angular` `Supabase` `PostgreSQL` `Pinecone` `LangChain` `LangGraph` `HuggingFace` `LLM APIs`
+
+---
+
+## Technical Skills
+
+### Languages
+`Python` `TypeScript` `Java` `JavaScript` `SQL`
+
+### Frontend
+`React` `Angular` `TailwindCSS` `HTML` `CSS`
+
+### Backend
+`FastAPI` `Django` `Spring Boot` `Laravel`
+
+### Artificial Intelligence
+`LangChain` `LangGraph` `HuggingFace` `Pinecone` `LLM APIs` `RAG` `AI Agents`
+
+### Databases
+`PostgreSQL` `Supabase` `MySQL` `Firebase`
+
+### DevOps & Tools
+`Docker` `Linux` `Git` `Cloud Platforms`
+
+---
+
+## AI Engineering Expertise
+
+<pre>
+LLM Applications          ████████████████░░░░  80%
+RAG Systems               ███████████████░░░░░  75%
+Backend Engineering       ████████████████████  95%
+Full-Stack Development    ████████████████████  95%
+Cloud & DevOps            ██████████████░░░░░░  70%
+System Architecture       ████████████████░░░░  80%
+</pre>
+
+---
+
+## Projects
+
+### AI Interview Agent
+An AI-powered technical interview platform with adaptive questioning, RAG knowledge base, and automated candidate evaluation.
+**Stack:** `FastAPI` `React` `LangChain` `Pinecone` `Supabase`
+[View Repository](https://github.com/Tuaniqram/AI-Interview-Agent)
+
+### AI PDF Assistant (ChatPDF Clone)
+An interactive chatbot application for conversing with PDF documents using LLM-powered question answering.
+**Stack:** `Python` `LangChain` `Llama` `Jupyter`
+[View Repository](https://github.com/Tuaniqram/ChatPDF-clone-llama2b)
+
+### AIBIG Website
+Full-stack web application with AI integration features.
+**Stack:** `TypeScript` `CSS` `React`
+[View Repository](https://github.com/Tuaniqram/AIBIGWebsite)
+
+### E-Wallet Payment System
+RESTful API for a digital wallet payment platform with secure transaction processing.
+**Stack:** `Java` `Spring Boot` `Hibernate` `MySQL`
+[View Repository](https://github.com/Tuaniqram/E-Wallet-Payment-System)
+
+### Bus Tracking System
+Real-time bus tracking and route management system.
+**Stack:** `Python` `Flask` `Database`
+[View Repository](https://github.com/Tuaniqram/flask)
+
+---
+
+## Engineering Philosophy
+
+- **Scalable by design** — Architecture decisions account for growth from day one
+- **Clean code, clean systems** — Readability and maintainability are engineering priorities
+- **Real problems, real solutions** — Technology choices serve the problem, not the other way around
+- **Responsible AI** — AI systems should be transparent, fair, and built with ethical considerations
+- **Continuous learning** — The landscape evolves rapidly; staying current is part of the discipline
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://gh-readme-stats.vercel.app/api?username=Tuaniqram&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFF0&icon_color=00FFF0&text_color=FFFFFF&border_color=00FFF0" />
+  <img width="48%" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=Tuaniqram&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFF0&text_color=FFFFFF&border_color=00FFF0" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats-eight.vercel.app?user=Tuaniqram&theme=radical&hide_border=true&background=0D1117&stroke=00FFF0&ring=00FFF0&fire=00FFF0&currStreakNum=FFFFFF&sideNums=00FFF0&currStreakLabel=00FFF0&sideLabels=FFFFFF" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tuaniqram/Tuaniqram/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph" />
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://github.com/Tuaniqram">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FFF0&labelColor=0D1117" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
+  </a>
+  <a href="mailto:tuaniqram@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
+  </a>
+</p>
+
+---
+
 <div align="center">
-
-[![Views](https://img.shields.io/badge/PROFILE_VIEWS-896-FF0080?style=for-the-badge&logo=eye&logoColor=white&labelColor=0a0a0f)](https://github.com/Tuaniqram)
-[![Followers](https://img.shields.io/github/followers/Tuaniqram?style=for-the-badge&logo=github&logoColor=white&color=00FFF0&labelColor=0a0a0f)](https://github.com/Tuaniqram?tab=followers)
-[![Stars](https://img.shields.io/github/stars/Tuaniqram?style=for-the-badge&logo=star&logoColor=white&color=FF0080&labelColor=0a0a0f)](https://github.com/Tuaniqram?tab=repositories)
-
-</div>
-
----
-
-## ⚡ About the Cyber
-
-```yaml
-status:       online
-designation:  AI Engineer & Full-Stack Architect
-neural_link:  Building intelligent systems
-current_mission: |
-  - AI-powered interview agents
-  - Scalable backend architecture
-  - Cyberpunk-level automation
-hobbies:      [code, coffee, cyberpunk, AI experiments]
-```
-
-> _"In a world of silicon and code, I build the future."_
-
----
-
-## 🛠️ Neural Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css,angular,react,django,flask,spring,supabase,firebase,docker,kubernetes,git,maven,postgres,mysql&perline=9&theme=dark" />
-</p>
-
----
-
-## 📊 Neural Readings
-
-<p align="center">
-  <img width="48%" src="https://gh-readme-stats.vercel.app/api?username=Tuaniqram&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=FF0080&icon_color=00FFF0&text_color=ffffff&border_color=FF0080" />
-  <img width="48%" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=Tuaniqram&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=FF0080&icon_color=00FFF0&text_color=ffffff&border_color=FF0080" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats-eight.vercel.app?user=Tuaniqram&theme=radical&hide_border=true&background=0a0a0f&stroke=FF0080&ring=00FFF0&fire=FF0080&currStreakNum=00FFF0&sideNums=FF0080&currStreakLabel=FF0080&sideLabels=ffffff&dates=888888" />
-</p>
-
----
-
-## 🐍 Contribution Matrix
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tuaniqram/Tuaniqram/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-## 📦 Core Systems
-
-<p align="center">
-  <a href="https://github.com/Tuaniqram/AI-Interview-Agent">
-    <img width="45%" src="https://gh-readme-stats.vercel.app/api/pin/?username=Tuaniqram&repo=AI-Interview-Agent&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=FF0080&icon_color=00FFF0&text_color=ffffff&border_color=FF0080" />
-  </a>
-  <a href="https://github.com/Tuaniqram/AIBIGWebsite">
-    <img width="45%" src="https://gh-readme-stats.vercel.app/api/pin/?username=Tuaniqram&repo=AIBIGWebsite&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=FF0080&icon_color=00FFF0&text_color=ffffff&border_color=FF0080" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Tuaniqram/ChatPDF-clone-llama2b">
-    <img width="45%" src="https://gh-readme-stats.vercel.app/api/pin/?username=Tuaniqram&repo=ChatPDF-clone-llama2b&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=FF0080&icon_color=00FFF0&text_color=ffffff&border_color=FF0080" />
-  </a>
-  <a href="https://github.com/Tuaniqram/E-Wallet-Payment-System">
-    <img width="45%" src="https://gh-readme-stats.vercel.app/api/pin/?username=Tuaniqram&repo=E-Wallet-Payment-System&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=FF0080&icon_color=00FFF0&text_color=ffffff&border_color=FF0080" />
-  </a>
-</p>
-
----
-
-## 🌐 Connect — Secure Channel
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0f" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0f" /></a>
-  <a href="https://github.com/Tuaniqram"><img src="https://img.shields.io/badge/GITHUB-00FFF0?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0a0f" /></a>
-  <a href="mailto:tuaniqram@example.com"><img src="https://img.shields.io/badge/ENCRYPTED_MAIL-FF0080?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f" /></a>
-</p>
-
----
-
-<div align="center">
-
-```
- ╔══════════════════════════════════════════════════════════╗
- ║  [SYSTEM] Tuaniqram ONLINE  //  v2.0.1  //  ALL SYSTEMS NOMINAL  ║
- ╚══════════════════════════════════════════════════════════╝
-```
-
-**`[Tuaniqram] > Built with ❤️ in the neon-lit streets of the digital world`**
-
+  <br/>
+  <code>Tuaniqram &middot; AI Engineer &middot; Building Intelligent Software for the Future</code>
+  <br/>
+  <br/>
+  <sub>&copy; 2026 Tuan Iqram &middot; Malaysia</sub>
+  <br/>
+  <br/>
 </div>
