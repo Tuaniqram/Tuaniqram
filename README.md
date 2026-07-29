@@ -41,12 +41,12 @@ Passionate about building intelligent systems that solve real problems. From AI-
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tuaniqram&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuaniqram&layout=compact&theme=radical&hide_border=true" />
+  <img width="48%" src="https://gh-readme-stats.vercel.app/api?username=Tuaniqram&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=Tuaniqram&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tuaniqram&theme=radical&hide_border=true" />
+  <img width="60%" src="https://streak-stats.demolab.com/?user=Tuaniqram&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
@@ -67,18 +67,18 @@ Passionate about building intelligent systems that solve real problems. From AI-
 
 <p align="center">
   <a href="https://github.com/Tuaniqram/AI-Interview-Agent">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tuaniqram&repo=AI-Interview-Agent&theme=radical&hide_border=true" />
+    <img width="45%" src="https://gh-readme-stats.vercel.app/api/pin/?username=Tuaniqram&repo=AI-Interview-Agent&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/Tuaniqram/AIBIGWebsite">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tuaniqram&repo=AIBIGWebsite&theme=radical&hide_border=true" />
+    <img width="45%" src="https://gh-readme-stats.vercel.app/api/pin/?username=Tuaniqram&repo=AIBIGWebsite&theme=radical&hide_border=true" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Tuaniqram/ChatPDF-clone-llama2b">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tuaniqram&repo=ChatPDF-clone-llama2b&theme=radical&hide_border=true" />
+    <img width="45%" src="https://gh-readme-stats.vercel.app/api/pin/?username=Tuaniqram&repo=ChatPDF-clone-llama2b&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/Tuaniqram/E-Wallet-Payment-System">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tuaniqram&repo=E-Wallet-Payment-System&theme=radical&hide_border=true" />
+    <img width="45%" src="https://gh-readme-stats.vercel.app/api/pin/?username=Tuaniqram&repo=E-Wallet-Payment-System&theme=radical&hide_border=true" />
   </a>
 </p>
 
