@@ -46,11 +46,7 @@ Passionate about building intelligent systems that solve real problems. From AI-
 </p>
 
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com/?user=Tuaniqram&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tuaniqram&theme=radical&no-frame=true&no-bg=false&row=2&column=4&margin-w=15&margin-h=15" />
+  <img width="60%" src="https://github-readme-streak-stats-eight.vercel.app?user=Tuaniqram&theme=radical&hide_border=true" />
 </p>
 
 ---
