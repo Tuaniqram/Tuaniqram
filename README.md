@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FF0080&center=true&vCenter=true&width=450&lines=%3E+System+Online...+Tuaniqram;%3E+AI+Enthusiast+%26%26+Builder;%3E+Full-Stack+Developer;%3E+Cyberpunk+Mindset" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FF0080&center=true&vCenter=true&width=450&lines=%3E+System+Online...+Tuaniqram;%3E+AI+Enthusiast+%26%26+Builder;%3E+Full-Stack+Developer" alt="Typing SVG" />
 </div>
 
 <br/>
